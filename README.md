@@ -11,6 +11,6 @@ The CLI tool covers the following conversions:
 
 ## TODO
 
-[ ] Make helpers
+- [ ] Make helpers
 
-[ ] Package for PyPi
+- [ ] Package for PyPi

@@ -1,4 +1,4 @@
-# PyCent
+# PyCenter
 
 CLI tool for conversion of percentages.
 
